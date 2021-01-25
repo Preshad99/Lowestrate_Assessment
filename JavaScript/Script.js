@@ -63,7 +63,7 @@ loadCard = (page) => {
         divElement.className = "component";
 
         let imageElement = document.createElement("img");
-        imageElement.src = "./Images/creditCard.svg";
+        imageElement.src = "./Views/Images/creditCard.svg";
         imageElement.className = "titleImage";
 
         let titleElement = document.createElement("div");
